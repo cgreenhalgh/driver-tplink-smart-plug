@@ -11,7 +11,7 @@ import (
 	"time"
 
 	databox "github.com/me-box/lib-go-databox"
-	"github.com/sausheong/hs1xxplug"
+	"github.com/comzine/hs1xxplug"
 )
 
 var DATABOX_ZMQ_ENDPOINT = os.Getenv("DATABOX_ZMQ_ENDPOINT")
